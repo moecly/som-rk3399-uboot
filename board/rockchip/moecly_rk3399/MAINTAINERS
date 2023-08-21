@@ -1,0 +1,7 @@
+MOECLY-RK3399
+M:      Kever Yang <kever.yang@rock-chips.com>
+S:      Maintained
+F:      board/rockchip/moecly_rk3399
+F:      include/configs/moecly_rk3399.h
+F:      configs/moecly-rk3399_defconfig
+F:      configs/firefly-rk3399_defconfig
