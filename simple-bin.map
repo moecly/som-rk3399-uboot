@@ -1,0 +1,6 @@
+ImagePos    Offset      Size  Name
+00000000  00000000  00901000  simple-bin
+00000000   00000000  00023800  mkimage
+007f8000   007f8000  00109000  fit
+007f8800    00000800  000bd178  u-boot
+007f8800     00000000  000bd178  u-boot-nodtb
